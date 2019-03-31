@@ -1,1 +1,6 @@
 This file only for practice at the time of learning git.
+
+Now here i started second commit here, and start python coding
+
+Print("Hello World")
+print(2+2)
